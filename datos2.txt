@@ -1,0 +1,7 @@
+Casa,Colegio
+Casa,Hospital
+Colegio,Biblioteca
+Hospital,Supermercado
+Biblioteca,Parque
+Supermercado,Parque
+Parque,Terminal

@@ -1,0 +1,5 @@
+Parque,Escuela
+Parque,Hospital
+Escuela,Mercado
+Hospital,Mercado
+Mercado,Terminal

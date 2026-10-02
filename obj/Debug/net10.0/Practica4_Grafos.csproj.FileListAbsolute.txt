@@ -1,0 +1,15 @@
+C:\Users\PC-PR\Desktop\Practica4_Grafos\bin\Debug\net10.0\Practica4_Grafos.exe
+C:\Users\PC-PR\Desktop\Practica4_Grafos\bin\Debug\net10.0\Practica4_Grafos.deps.json
+C:\Users\PC-PR\Desktop\Practica4_Grafos\bin\Debug\net10.0\Practica4_Grafos.runtimeconfig.json
+C:\Users\PC-PR\Desktop\Practica4_Grafos\bin\Debug\net10.0\Practica4_Grafos.dll
+C:\Users\PC-PR\Desktop\Practica4_Grafos\bin\Debug\net10.0\Practica4_Grafos.pdb
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.AssemblyInfoInputs.cache
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.AssemblyInfo.cs
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.sourcelink.json
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.dll
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\refint\Practica4_Grafos.dll
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.pdb
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\Practica4_Grafos.genruntimeconfig.cache
+C:\Users\PC-PR\Desktop\Practica4_Grafos\obj\Debug\net10.0\ref\Practica4_Grafos.dll
